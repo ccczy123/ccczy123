@@ -2,7 +2,7 @@
 
 - **Email**: `zychen@csu.edu.cn`
 - **Affiliation**: Central South University
-- **School**: School of Computer Science
+- **School**: School of Computer Science and Engineering
 - **Major**: Electronic Information (Student)
 
 ---
