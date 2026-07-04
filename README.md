@@ -1,16 +1,15 @@
-## Hi there 👋
+# Ziyan Chen
 
-<!--
-**ccczy123/ccczy123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- **Email**: `zychen@csu.edu.cn`
+- **Affiliation**: Central South University
+- **School**: School of Computer Science
+- **Major**: Electronic Information (Student)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 陈紫颜
+
+- **邮箱**：`zychen@csu.edu.cn`
+- **机构**：中南大学
+- **学院**：计算机学院
+- **专业**：电子信息（在读）
